@@ -1,4 +1,5 @@
-![image](https://github.com/ElJohnnie/js-node-studies/assets/54804502/744b2344-3557-4826-8363-6a461f3536ce)
+![image](https://github.com/ElJohnnie/js-node-studies/assets/54804502/e79bcc89-95dc-4012-be09-19f39603d40b)
+
 
 ### About repository
 
